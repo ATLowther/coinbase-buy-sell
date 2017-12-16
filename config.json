@@ -1,0 +1,39 @@
+{
+	"key": "", 
+	"secret": "", 
+	"currency": "USD", 	
+	"buy": [
+		{
+			"type": "BTC",
+			"price": null,
+			"amount": null
+		},
+		{
+			"type": "ETH",
+			"price": null,
+			"amount": null
+		},
+		{
+			"type": "LTC",
+			"price": null,
+			"amount": null
+		}
+	],	
+	"sell": [
+		{
+			"type": "BTC",
+			"price": null,
+			"amount": null
+		},
+		{
+			"type": "ETH",
+			"price": null,
+			"amount": null
+		},
+		{
+			"type": "LTC",
+			"price": null,
+			"amount": null
+		}
+	]
+}
