@@ -18,12 +18,11 @@ it will verify that you have enough funds in your Coinbase wallet to make a sing
 
 
 
-			1. Find the object holding the type of coin you wish to purchase.  
-			2. Enter the price at which you would like the script to purchase the desired amount of the coin(s).  
-			3. Enter the quantity of the coin you would like to purchase at that price.  
-			4. Please make sure any quantity and price are entered as numbers and not strings.    
-			5. For any coin you do not wish to purchase, leave/modify both the price and amount to null. 
-
+		1. Find the object holding the type of coin you wish to purchase.  
+		2. Enter the price at which you would like the script to purchase the desired amount of the coin(s).  
+		3. Enter the quantity of the coin you would like to purchase at that price.  
+		4. Please make sure any quantity and price are entered as numbers and not strings.    
+		5. For any coin you do not wish to purchase, leave/modify both the price and amount to null. 
 		"buy": [
 			{
 				"type": "BTC",
@@ -43,12 +42,11 @@ it will verify that you have enough funds in your Coinbase wallet to make a sing
 		],	
 
 
-			1. Find the object holding the type of coin you would like to sell.
-			2. Enter the price at which you would like the script to sell the desired amount of the coin(s).
-			3. Enter the quantity of the coin(s) you would like to sell at that price.
-			4. Please make sure any quantity and price are entered as numbers and not strings.
-			5. For any coin you do not wish to sell, leave/modify both the price and amount to null
-
+		1. Find the object holding the type of coin you would like to sell.
+		2. Enter the price at which you would like the script to sell the desired amount of the coin(s).
+		3. Enter the quantity of the coin(s) you would like to sell at that price.
+		4. Please make sure any quantity and price are entered as numbers and not strings.
+		5. For any coin you do not wish to sell, leave/modify both the price and amount to null
 		"sell": [
 			{
 				"type": "BTC",
